@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test-form-dyn-pom": "npx playwright test practice-form-with-dynamic-pom.spec.ts --project=chromium --headed"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ccdita/dynamic-pom-demo.git"
