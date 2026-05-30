@@ -5,4 +5,5 @@ export default {
     home: '/',
     forms: '/forms',
     practiceForm: 'automation-practice-form',
+    bookstore: '/books',
 };
