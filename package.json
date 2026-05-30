@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-form-dyn-pom": "npx playwright test practice-form-with-dynamic-pom.spec.ts --project=chromium --headed"
+    "test-form-dyn-pom": "npx playwright test practice-form-with-dynamic-pom.spec.ts --project=chromium --headed",
+    "test-book-search-fixture": "npx playwright test book-search-with-fixture.spec.ts --project=chromium --headed"
   },
   "repository": {
     "type": "git",
